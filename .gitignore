@@ -1,2 +1,7 @@
+Updates/*
+
 *.log
 *.txt
+
+settings-telemetry.json
+UpdateState.json
