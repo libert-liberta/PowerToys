@@ -1,2 +1,2 @@
 # 場所
-%localappdata%
+%LOCALAPPDATA%\Microsoft\PowerToys
